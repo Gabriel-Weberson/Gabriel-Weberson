@@ -14,4 +14,6 @@
   <img align="center" alt="Gabriel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
+![Snake animation](https://github.com/Gabriel-Weberson/Gabriel-Weberson/blob/output/github-contribution-grid-snake.svg)
+
 #
