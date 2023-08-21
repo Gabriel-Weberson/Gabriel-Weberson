@@ -6,7 +6,7 @@
   </h2>
   
   <p align="center">
-    Sou Desenvolvedor Back-End e gosto de compartilhar alguns dos meus projetos aqui no github para demonstrar um pouco da minha experiência
+    Sou Desenvolvedor Back-End e gosto de compartilhar alguns dos meus projetos aqui no github para demonstrar um pouco da minha experiência...
   </p>
 
   <div align="center">
